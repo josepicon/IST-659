@@ -1,4 +1,4 @@
-# IST-659 - Database Administration Concepts and Database Management
+# IST-659: Database Administration Concepts and Database Management
 IST 659 is an introductory course to database management systems. 
 This course examines data structures, file organizations, concepts, and principles of database management systems (DBMS) as well as data analysis, database design, data modeling, database management, and database implementation. 
 
